@@ -1,4 +1,3 @@
-![newplot](https://user-images.githubusercontent.com/78183606/112902842-bf202500-90b4-11eb-9a79-6d383dad4511.png)
 # United States vs. Nigeria (1st World and 3rd World)
 
 **Wale Agboola**
@@ -29,15 +28,16 @@ The three main areas I'm looking to focus on for this study are Education, Econo
 
 2010:
 
-![alt text](newplot.png "GDP in 2010")
+![newplot](https://user-images.githubusercontent.com/78183606/112902842-bf202500-90b4-11eb-9a79-6d383dad4511.png)
 
 2018:
 
-![alt text](2018_GDP.png "GDP in 2018")
+![2018_GDP](https://user-images.githubusercontent.com/78183606/112902990-ec6cd300-90b4-11eb-8d0f-54afec36af86.png)
 
 2010 - 2018:
 
-![alt text](GDP_LG.png "GDP per capita")
+![GDP_LG](https://user-images.githubusercontent.com/78183606/112903067-0a3a3800-90b5-11eb-9f8b-dcd44391d284.png)
+
 
 Comments:
 

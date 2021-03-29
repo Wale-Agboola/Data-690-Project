@@ -1,3 +1,4 @@
+![newplot](https://user-images.githubusercontent.com/78183606/112902842-bf202500-90b4-11eb-9a79-6d383dad4511.png)
 # United States vs. Nigeria (1st World and 3rd World)
 
 **Wale Agboola**

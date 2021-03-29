@@ -47,7 +47,8 @@ As you can tell by the graph the United already had a huge GDP per capita in 201
 
 2010 - 2018:
 
-![alt text](Line_LE.png "Life expectancy")
+![Line_LE](https://user-images.githubusercontent.com/78183606/112905072-d280bf80-90b7-11eb-9ce5-f98ee48de0fb.png)
+
 
 Comments:
 
@@ -57,7 +58,8 @@ Unlike GDP per Capita you can clearly see that Nigeria had the more impactful gr
 
 2010 - 2018:
 
-![alt text](GDP_Growth_Line.png "GDP Growth")
+![GDP_Growth_Line](https://user-images.githubusercontent.com/78183606/112905090-d876a080-90b7-11eb-9de0-4db0cf753a57.png)
+
 
 Comments:
 
@@ -68,11 +70,13 @@ Now previously we looked at GDP per capita and what changes were had. The chart 
 
 2010:
 
-![alt text](PHYxLE1.png "Pyh x LE")
+![PHYxLE1](https://user-images.githubusercontent.com/78183606/112905114-e3313580-90b7-11eb-9159-662712a65dd6.png)
+
 
 2018:
 
-![alt text](PHYxLE2.png "Pyh x LE")
+![PHYxLE2](https://user-images.githubusercontent.com/78183606/112905126-e9271680-90b7-11eb-98f4-3fae9838ca99.png)
+
 
 Comments:
 
@@ -82,11 +86,13 @@ Here we can kinda of see the relationship between the number of physicians and t
 
 2010:
 
-![alt text](PHY1.png "Pyh")
+![PHY1](https://user-images.githubusercontent.com/78183606/112905148-f2b07e80-90b7-11eb-8439-c8934216ead9.png)
+
 
 2018:
 
-![alt text](PHY2.png "Pyh")
+![PHY2](https://user-images.githubusercontent.com/78183606/112905156-f7753280-90b7-11eb-8dbe-3f3c49902ca7.png)
+
 
 Comments:
 
@@ -96,20 +102,24 @@ Here we can see that the United states has a higher physician count than Nigeria
 
 2010 - 2018:
 
-![alt text](PRISchool.png "Education")
+![PRISchool](https://user-images.githubusercontent.com/78183606/112905173-ffcd6d80-90b7-11eb-9a73-ad58cee715c9.png)
+
 
 2010 - 2018:
 
-![alt text](NI1st.png "Education")
+![NI1st](https://user-images.githubusercontent.com/78183606/112905203-0c51c600-90b8-11eb-9b15-129ef0c767b8.png)
+
 
 **Secondary School enrollment**
 2010 - 2018:
 
-![alt text](2ndSchoolEnroll.png "Education")
+![2ndSchoolEnroll](https://user-images.githubusercontent.com/78183606/112905220-11167a00-90b8-11eb-8314-a0b267896ffc.png)
+
 
 2010 - 2018:
 
-![alt text](NI2nd.png "Education")
+![NI2nd](https://user-images.githubusercontent.com/78183606/112905235-15db2e00-90b8-11eb-849b-8fc8c74f6835.png)
+
 
 Comments:
 
